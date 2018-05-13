@@ -6,14 +6,14 @@ The data comes from the listening history of a million Last.fm users. They are a
 
 Temporary list of files:
 
-##[train_triplets.txt](http://labrosa.ee.columbia.edu/millionsong/sites/default/files/challenge/train_triplets.txt.zip)
+### [train_triplets.txt](http://labrosa.ee.columbia.edu/millionsong/sites/default/files/challenge/train_triplets.txt.zip)
 File with the listening history of about 1 million users in the form of user_id - song_id - play count triplets.
 Some figures:
 * 1.019.318 unique users
 * 384.546 unique MSD songs
 * 48.373.586 user - song - play count triplets
 
-##[unique_tracks.txt](http://labrosa.ee.columbia.edu/millionsong/sites/default/files/AdditionalFiles/unique_tracks.txt)
+### [unique_tracks.txt](http://labrosa.ee.columbia.edu/millionsong/sites/default/files/AdditionalFiles/unique_tracks.txt)
 File with info on 1 million songs in the form of unknown_id - song_id - performer - song_title
 Some figures:
 * 1.000.000 values in column1
