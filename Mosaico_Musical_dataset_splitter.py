@@ -112,7 +112,6 @@ if __name__ == '__main__':
     test_file_path = "data/test_listenings.pkl"
     listenings_file = "data/train_triplets_sorted.txt"
 
-    # pdb.set_trace()
     # Delete the files if they already exist
     try:
         os.remove(train_file_path)
@@ -139,7 +138,6 @@ if __name__ == '__main__':
             if last_user == "":
                 last_user = user
             if user != last_user:
-                # pdb.set_trace()
                 # Change of user. Save it in train and test
                 write_sets(*list_splitting(user_data, test_pct))
                 last_user = user
