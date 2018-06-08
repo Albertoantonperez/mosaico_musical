@@ -22,5 +22,5 @@ Some figures:
 * 702.429 song titles.
 
 
-The project is in Mosaico_Musical.ipynb
+The project is in [Mosaico_Musical.ipynb](https://github.com/Albertoantonperez/mosaico_musical/blob/master/Mosaico_Musical.ipynb)
  
